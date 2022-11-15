@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-react-typescript-lesscss-axios-9Pfu8bE4kg](https://www.frontendmentor.io/solutions/advice-generator-app-react-typescript-lesscss-axios-9Pfu8bE4kg)
+- Live Site URL: [https://advice-generator-app-main-lyart.vercel.app/](https://advice-generator-app-main-lyart.vercel.app/)
 
 ### Built with
 
