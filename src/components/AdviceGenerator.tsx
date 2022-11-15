@@ -27,7 +27,7 @@ const AdviceGenerator = () => {
   return (
     <>
     <div className='adviceGenContainer'>
-        <h1 className='adviceNumber'>Advice {data ? data.id : ""}</h1>
+        <h1 className='adviceNumber'>Advice #{data ? data.id : ""}</h1>
         <q className='adviceText'>{data ? data.advice : ""}</q>
         <div className="divider">
             <img src="pattern-divider-desktop.svg" alt="Layout divider"/>

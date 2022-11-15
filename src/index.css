@@ -45,6 +45,7 @@ body {
   font-size: 1rem;
   color: hsl(150, 100%, 66%);
   flex-shrink: 1;
+  letter-spacing: 3px;
 }
 .pageWrapper .adviceGenContainer .adviceText {
   color: hsl(193, 38%, 86%);
